@@ -1,8 +1,9 @@
 # A-star-pathfinding
-Maze solver using A star pathfinding heuristic.
-Code written in Processing to implement a beautiful and simple interface.
+Maze solver using **A star** pathfinding heuristic.
+Code written in *Processing* to implement a beautiful yet simple interface.
 
-To run the program, execute Astar.pde.
+To run the program, execute `Astar.pde` within the Processing IDE.
 
-'a' is to restart.
-'space' is to find the path.
+**Controls**:
+- `a` to restart.
+- `spacebar` to solve the maze.
